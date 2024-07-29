@@ -1,0 +1,164 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+.main {
+    text-align: center;
+  }
+
+/* --------------Top logo Styling----------------- */
+
+.top img{
+    height: 81px;
+}
+
+
+
+
+/* --------------Body Styling----------------- */
+.body{
+    background-image: url("../Assets/body-bg.jpg");
+    background-position: center ;
+    background-repeat: no-repeat;
+    height: 1045px;
+    margin-top: 5px;
+}
+
+/* --------------Mom font Styling----------------- */
+
+#mom-font{
+    height: 74px;
+    margin-top: 20px;
+}
+
+/* --------------Date and day Styling----------------- */
+
+#Day-text{
+    color: #00c4cc;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+
+}
+
+
+/* --------------Main font Styling----------------- */
+.headings{
+    margin-top: 12px;
+}
+.body-center-text{
+    font-size: 48px;
+    color: #fff;
+    font-family: sans-serif;
+}
+/* --------------Button Styling----------------- */
+
+#btn{
+    background-color: #ff879e;
+    width: 170px;
+    border-radius: 32px;
+    border: none;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 22px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* --------------Arrows Styling----------------- */
+
+.arrows-gif img{
+    width:192px;
+}
+
+
+/* --------------Body below Styling----------------- */
+
+.body-below h1{
+    color: #00c4cc;
+    font-family: sans-serif;
+    font-size: 37px;
+    margin-top: 60px;
+}
+
+#body-below-pra1{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.Row-Picture{
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+}
+
+#body-below-pra2{
+    margin-top: 30px;
+
+}
+#promo-text{
+    color: #00c4cc;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+/* --------------Line Styling----------------- */
+
+#line{
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border:none;
+    border-top:5px solid #B5E4DC;
+    width:640px;
+}
+
+/* --------------Icons and Contact detail Styling----------------- */
+
+.socialicons img{
+    width: 32px;
+    height: 32px;
+}
+
+.contact-details{
+    margin-top: 40px;
+}
+
+
+.ending-text p{
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 35px;
+
+}
+.contact-details{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pink-link-contact a{
+    color: #ff879e;
+}
+
+/* --------------footer Styling----------------- */
+
+
+.footer{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.footer p img{
+    height: 32px;
+    vertical-align: middle;
+}
+.footer p span{
+    margin-left: 5px;
+    vertical-align: middle;
+}
+

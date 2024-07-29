@@ -16,7 +16,7 @@ A beautifully crafted email template made with simple HTML and CSS. Perfect for 
 This project is licensed under the MIT License.
 
 ## 💬 Contact
-For any questions or feedback, please reach out to [zubairjaved1014@gmail.com] or visit our GitHub Issues page.
+For any questions or feedback, please reach out to [zubairjaved1014@gmail.com] or visit our GitHub Issues page.\
 **For more about me visit my website:** https://muhamamd-zubair.netlify.app/
 
 

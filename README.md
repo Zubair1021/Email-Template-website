@@ -8,8 +8,12 @@ A beautifully crafted email template made with simple HTML and CSS. Perfect for 
 - ⚡ **Fast and Lightweight**: Optimized for quick loading.
 - 🖼️ **Rich Media Support**: Add images, videos, and more.
 
-## Screenshot of Website
-![image](https://github.com/user-attachments/assets/66a4074d-f384-49be-8e94-e6f1e996a544)
+## Demo of Website
+<video width="600" height="auto" autoplay loop muted>
+  <source src="https://drive.google.com/file/d/1doSkna0gaFXVzndtMHTnK_Yyyn60GtzC/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **Visit this website:** https://email-template-by-zubair.netlify.app/ 
 
 ## 📄 License

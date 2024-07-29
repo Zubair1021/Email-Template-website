@@ -9,8 +9,7 @@ A beautifully crafted email template made with simple HTML and CSS. Perfect for 
 - 🖼️ **Rich Media Support**: Add images, videos, and more.
 
 ## Demo of Website
-<iframe src="https://drive.google.com/file/d/1doSkna0gaFXVzndtMHTnK_Yyyn60GtzC/view?usp=sharing" width="600" height="400" frameborder="0" allowfullscreen></iframe>
-
+https://github.com/user-attachments/assets/c17087f0-b4c9-4fed-9aaf-643e2e605c45
 **Visit this website:** https://email-template-by-zubair.netlify.app/ 
 
 ## 📄 License

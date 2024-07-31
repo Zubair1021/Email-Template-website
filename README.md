@@ -20,4 +20,9 @@ This project is licensed under the MIT License.
 For any questions or feedback, please reach out to zubairjaved1014@gmail.com or visit our GitHub Issues page.\
 **For more about me visit my website:** https://muhamamd-zubair.netlify.app/
 
+## Copyright
+© [2024] Muhammad Zubair. All rights reserved.
+
+
+
 

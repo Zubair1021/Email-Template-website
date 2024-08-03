@@ -11,7 +11,7 @@ A beautifully crafted email template made with simple HTML and CSS. Perfect for 
 ## Demo of Website
 https://github.com/user-attachments/assets/2351ba51-fe60-48ce-9ebe-de9945a9f0a2.mp4
 
-**Visit this website:** https://email-template-by-zubair.netlify.app/ 
+**Visit this website:** https://zubair1021.github.io/Email-Template-website/
 
 ## 📄 License
 This project is licensed under the MIT License.
